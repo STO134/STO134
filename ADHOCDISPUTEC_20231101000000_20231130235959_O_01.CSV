@@ -1,0 +1,8 @@
+﻿"Case Report"
+"Case Report for Worj"
+"Open cases","-","2023/11/01 00:00:00","-","2023/11/30 23:59:59"
+"Case type","Case ID","Original Transaction ID","Transaction date","Transaction invoice ID","Card Type","Case reason","Claimant name","Claimant email address","Case filing date","Case status","Response due date","Disputed amount","Disputed currency","Disputed transaction ID","Money movement","Settlement type","Seller protection","Seller protection payout amount","Seller protection currency","Payment Tracking ID","Buyer comments","Store ID","Chargeback Reason Code","Outcome"
+"-No data available-"
+"1","Card type: Card type involved in a case filed against a Website Payments Pro, Virtual Terminal, or Hosted Sole Solution transaction."
+"2","Money movement: Indication of whether PayPal moved funds into or out of your account."
+"3","Settlement type: Method used to return funds to buyer."
